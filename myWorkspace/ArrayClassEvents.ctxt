@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ArrayClassEvents
+comment0.text=\r\n\ ArrayList\ can\ be\ found\ in\ the\ Collections\ class\ of\ utility\ package\r\n\ Demonstrated\ the\ adding\ of\ various\ events\ and\ days\ in\ the\ ArrayList\ class\r\n
+comment1.params=
+comment1.target=ArrayClassEvents()
+comment2.params=ev
+comment2.target=void\ addEvent(event)
+comment3.params=
+comment3.target=void\ addDay()
+comment4.params=d
+comment4.target=void\ displayDay(day)
+comment5.params=
+comment5.target=void\ sortDay()
+comment6.params=
+comment6.target=int\ countDay()
+comment7.params=index
+comment7.target=day\ getDay(int)
+comment8.params=index
+comment8.target=event\ getEvent(int)
+numComments=9
