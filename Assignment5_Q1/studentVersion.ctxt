@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=studentVersion
+comment1.params=
+comment1.target=void\ displayGUI()
+comment1.text=\ This\ class\ is\ made\ for\ the\ purpose\ that\ student\ button\ has\ been\ clicked\r\n\ So\ it\ contains\ 2\ buttons\ one\ for\ getting\ the\ marks\ by\ entering\ the\ roll\ number\r\n\ And\ the\ other\ one\ for\ displaying\ the\ marks\ on\ a\ table\ \r\n
+numComments=2

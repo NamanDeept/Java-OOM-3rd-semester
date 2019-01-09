@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GenerateFileCSV
+comment0.text=\r\n\ This\ class\ generates\ a\ file\ with\ data\ of\ every\ student\ \ \r\n\ along\ with\ their\ marks\r\n
+comment1.params=
+comment1.target=void\ openFile()
+comment2.params=
+comment2.target=void\ addRecord()
+comment3.params=
+comment3.target=void\ closeFile()
+comment4.params=
+comment4.target=void\ generateFile()
+numComments=5
